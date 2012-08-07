@@ -29,3 +29,5 @@ pip-log.txt
 *.py~
 
 Python/.DS_Store
+
+.DS_Store
